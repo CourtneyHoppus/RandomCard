@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Card</string>
+    <string name="pick_button_text">Pick a Random Card</string>
+</resources>
